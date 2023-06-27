@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+html {
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+  }
+  h1 {
+    height: 100%;
+    width: 100%;
+    color: darkred;
+  }
+  h2 {
+    height: auto;
+    width: auto;
+    color: goldenrod;
+  }
+  footer {
+    margin: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    color: darkred;
+  }
+  .caption {
+    margin: center;
+    height: 40px;
+    background-color: fuchsia;
+  }
