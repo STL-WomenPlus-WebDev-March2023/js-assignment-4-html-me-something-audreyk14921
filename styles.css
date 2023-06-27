@@ -14,6 +14,10 @@ html {
     width: auto;
     color: goldenrod;
   }
+  body {
+    margin: 8px;
+    display: block;
+  }
   footer {
     margin: 20px;
     padding: 20px;
@@ -24,5 +28,5 @@ html {
   .caption {
     margin: center;
     height: 40px;
-    background-color: fuchsia;
+    color: navy;
   }
