@@ -4,10 +4,10 @@ html {
     margin: 10px;
     padding: 10px;
   }
-  h1 {
+  #mainHeading {
     height: 100%;
     width: 100%;
-    color: darkred;
+    color: red;
   }
   h2 {
     height: auto;
@@ -29,4 +29,7 @@ html {
     margin: center;
     height: 40px;
     color: navy;
+  }
+  .funParagraph {
+    color: green;
   }
