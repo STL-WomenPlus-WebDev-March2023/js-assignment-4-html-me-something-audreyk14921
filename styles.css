@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+html {
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+  }
+  #mainHeading {
+    height: 100%;
+    width: 100%;
+    color: red;
+  }
+  h2 {
+    height: auto;
+    width: auto;
+    color: goldenrod;
+  }
+  body {
+    margin: 8px;
+    display: block;
+  }
+  footer {
+    margin: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    color: darkred;
+  }
+  .caption {
+    margin: center;
+    height: 40px;
+    color: navy;
+  }
+  .funParagraph {
+    color: green;
+  }
